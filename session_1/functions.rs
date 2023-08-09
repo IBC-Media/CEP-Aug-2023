@@ -1,3 +1,4 @@
+// x and y are parameters 
 fn add(x:i32, y:i32)->i32{
     x+y
     // return x + y
